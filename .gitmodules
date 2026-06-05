@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "inferMM"]
 	path = inferMM
-	url = https://github.com/cran/inferMM
+	url = https://github.com/mijeong-kim/infermm
